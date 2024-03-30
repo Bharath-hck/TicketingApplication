@@ -7,5 +7,6 @@ class Program
         Console.WriteLine("Hello, World!");
         Console.WriteLine("Added a new line");
         Console.WriteLine("Added another line");
+        Console.WriteLine("Added new change from develop branch");
     }
 }
